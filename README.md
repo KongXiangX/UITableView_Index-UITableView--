@@ -1,4 +1,4 @@
-##1.转ZTLetterIndex(Mar 31 提交的版本，有2个细节问题)
+## 1.转ZTLetterIndex(Mar 31 提交的版本，有2个细节问题)
 <br>
 https://github.com/JoviZT/Z
 <br>
@@ -11,7 +11,7 @@ https://github.com/JoviZT/Z
       <img src="https://github.com/KongXiangX/UITableView_Index-UITableView--/blob/master/22gif.gif" width=345 height=594/>
       
       
-##2.转 LGIndexView
+## 2.转 LGIndexView
 <br>
 https://github.com/LiuGanQQQ/LGIndexView
 <br>
@@ -35,7 +35,7 @@ https://github.com/LiuGanQQQ/LGIndexView
 <br>
 <img src="https://github.com/KongXiangX/UITableView_Index-UITableView--/blob/master/22.png" width=900 height=823 />
 <br>
-##3.系统-- 方法
+## 3.系统-- 方法
 <br>
 1.缺点：
 <br>
