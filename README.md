@@ -19,13 +19,13 @@ https://github.com/LiuGanQQQ/LGIndexView
 <br>
    缺点：未实现  上下滑动的时候的后  索引变化
 <br>
-<img src="https://github.com/KongXiangX/UITableView_Index-UITableView--/blob/master/11.png" width=846 height=572  />
+<img src="https://github.com/KongXiangX/UITableView_Index-UITableView--/blob/master/11.gif" width=345 height=594 />
 
 细节更正
 <br>
 1.无数据 初始化后 问题
 <br>
-<img src="https://github.com/KongXiangX/UITableView_Index-UITableView--/blob/master/22.png" width=900 height=823 />
+<img src="https://github.com/KongXiangX/UITableView_Index-UITableView--/blob/master/11.png" width=846 height=572  />
 
 2.数据过少，索引需要多次点击问题，滑动监听方法 与 第三方 对应点击方法 循环问题引起的。
 <br>
@@ -33,7 +33,7 @@ https://github.com/LiuGanQQQ/LGIndexView
 <br>
 - (void)ZTLetterIndex:(ZTLetterIndex *)indexView didSelectedItemWithIndex:(NSInteger)index;
 <br>
-<img src="https://github.com/KongXiangX/KXPublicStatus/blob/master/展示.gif" width=345 height=594  />
+<img src="https://github.com/KongXiangX/UITableView_Index-UITableView--/blob/master/22.png" width=900 height=823 />
 <br>
 ##3.系统-- 方法
 <br>
